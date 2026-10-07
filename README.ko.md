@@ -138,3 +138,14 @@ bash scripts/build-linux.sh
 ## 라이선스
 
 [MIT 라이선스](LICENSE)로 배포됩니다.
+
+## 스타 기록
+
+[![Star History Chart](https://api.star-history.com/svg?repos=celynnmoonlight/meridian-clock&type=Date)](https://star-history.com/#celynnmoonlight/meridian-clock&Date)
+
+## 작성자 연락처
+
+질문, 의견 또는 협업 제안은 아래 이메일로 연락해 주세요.
+
+- 작성자: [Hachimi Moonlight (@celynnmoonlight)](https://github.com/celynnmoonlight)
+- 이메일: [lynnxu2025@gmail.com](mailto:lynnxu2025@gmail.com)

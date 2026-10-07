@@ -134,3 +134,14 @@ bash scripts/build-linux.sh
 ```
 
 Build on the target operating system. Outputs go to `dist/`. These scripts run tests before packaging when invoked. No build was run for the latest changes. See [packaging configuration](packaging/README.md) for details. Signing and macOS notarization are not configured.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=celynnmoonlight/meridian-clock&type=Date)](https://star-history.com/#celynnmoonlight/meridian-clock&Date)
+
+## Contact
+
+For questions, feedback, or collaboration, contact the author:
+
+- Author: [Hachimi Moonlight (@celynnmoonlight)](https://github.com/celynnmoonlight)
+- Email: [lynnxu2025@gmail.com](mailto:lynnxu2025@gmail.com)

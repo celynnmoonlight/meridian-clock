@@ -129,3 +129,14 @@ bash scripts/build-linux.sh
 ```
 
 在目标操作系统上执行构建，产物输出至 `dist/`。脚本执行时会先运行测试再打包；本轮最新修改尚未执行构建。详细说明见[发布配置](packaging/README.md)。目前未配置代码签名与苹果应用公证。
+
+## 星标历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=celynnmoonlight/meridian-clock&type=Date)](https://star-history.com/#celynnmoonlight/meridian-clock&Date)
+
+## 联系作者
+
+如有问题、建议或合作意向，欢迎通过邮箱联系：
+
+- 作者: [Hachimi Moonlight (@celynnmoonlight)](https://github.com/celynnmoonlight)
+- 邮箱： [lynnxu2025@gmail.com](mailto:lynnxu2025@gmail.com)

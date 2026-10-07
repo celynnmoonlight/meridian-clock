@@ -10,6 +10,8 @@ Dates use the YYYY-MM-DD format. Entries describe source versions; packaged rele
 
 ### Added
 
+- Author contact details and a Star History chart in all four README languages.
+
 - Japanese and Korean README translations.
 - Language navigation between English, Simplified Chinese, Japanese, and Korean documentation.
 - This changelog to track user-facing changes by version.
