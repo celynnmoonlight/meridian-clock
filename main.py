@@ -20,7 +20,7 @@ def main():
 
     # 设置应用程序信息
     app.setApplicationName("Meridian Clock")
-    app.setApplicationVersion("0.2.0")
+    app.setApplicationVersion("0.1.0")
     app.setOrganizationName("MeridianClock")
     
     # 创建主窗口

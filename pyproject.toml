@@ -1,6 +1,6 @@
 [project]
 name = "meridian-clock"
-version = "0.2.0"
+version = "0.1.0"
 description = "A desktop world clock and time zone converter built with Python and PySide6."
 readme = "README.md"
 license = "MIT"

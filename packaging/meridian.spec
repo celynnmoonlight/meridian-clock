@@ -20,5 +20,5 @@ collection = COLLECT(exe, analysis.binaries, analysis.datas,
 if sys.platform == 'darwin':
     app = BUNDLE(collection, name='Meridian Clock.app',
                  bundle_identifier='io.meridianclock.desktop',
-                 info_plist={'CFBundleShortVersionString': '0.2.0',
+                 info_plist={'CFBundleShortVersionString': '0.1.0',
                              'NSHighResolutionCapable': True})

@@ -1,5 +1,5 @@
 #define AppName "Meridian Clock"
-#define AppVersion "0.2.0"
+#define AppVersion "0.1.0"
 [Setup]
 AppId={{48283815-F885-421C-B4B4-1391C3E9085D}
 AppName={#AppName}

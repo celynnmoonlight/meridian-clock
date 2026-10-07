@@ -8,7 +8,7 @@ This changelog follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Version numbers follow [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 Dates use the YYYY-MM-DD format. Entries describe source versions; packaged releases are not yet available.
 
-## [0.2.0] - 2026-10-07
+## [0.1.0] - 2026-10-07
 
 First public source version of Meridian Clock.
 
@@ -42,4 +42,4 @@ First public source version of Meridian Clock.
 - Converted times being displayed in the system time zone rather than the selected target time zone.
 - The current-time shortcut using the system time zone rather than the selected source time zone.
 
-[0.2.0]: https://github.com/celynnmoonlight/meridian-clock/tree/28e958887122f3397191d095fd37f65920920918
+[0.1.0]: https://github.com/celynnmoonlight/meridian-clock/tree/28e958887122f3397191d095fd37f65920920918
