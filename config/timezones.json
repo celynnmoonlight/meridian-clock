@@ -1,0 +1,196 @@
+{
+  "common_timezones": [
+    {
+      "id": "Pacific/Kwajalein",
+      "display_name": "马绍尔群岛时间 (UTC-12)",
+      "description": "西12区",
+      "utc_offset": "-12:00"
+    },
+    {
+      "id": "Pacific/Midway",
+      "display_name": "中途岛时间 (UTC-11)",
+      "description": "西11区",
+      "utc_offset": "-11:00"
+    },
+    {
+      "id": "Pacific/Honolulu",
+      "display_name": "夏威夷时间 (HST UTC-10)",
+      "description": "西10区",
+      "utc_offset": "-10:00"
+    },
+    {
+      "id": "America/Anchorage",
+      "display_name": "阿拉斯加时间 (AKST UTC-9)",
+      "description": "西9区",
+      "utc_offset": "-09:00"
+    },
+    {
+      "id": "America/Los_Angeles",
+      "display_name": "洛杉矶时间 (PST UTC-8)",
+      "description": "西8区",
+      "utc_offset": "-08:00"
+    },
+    {
+      "id": "America/Denver",
+      "display_name": "丹佛时间 (MST UTC-7)",
+      "description": "西7区",
+      "utc_offset": "-07:00"
+    },
+    {
+      "id": "America/Chicago",
+      "display_name": "芝加哥时间 (CST UTC-6)",
+      "description": "西6区",
+      "utc_offset": "-06:00"
+    },
+    {
+      "id": "America/New_York",
+      "display_name": "纽约时间 (EST UTC-5)",
+      "description": "西5区",
+      "utc_offset": "-05:00"
+    },
+    {
+      "id": "America/Caracas",
+      "display_name": "加拉加斯时间 (VET UTC-4)",
+      "description": "西4区",
+      "utc_offset": "-04:00"
+    },
+    {
+      "id": "America/Sao_Paulo",
+      "display_name": "圣保罗时间 (BRT UTC-3)",
+      "description": "西3区",
+      "utc_offset": "-03:00"
+    },
+    {
+      "id": "Atlantic/South_Georgia",
+      "display_name": "南乔治亚时间 (GST UTC-2)",
+      "description": "西2区",
+      "utc_offset": "-02:00"
+    },
+    {
+      "id": "Atlantic/Azores",
+      "display_name": "亚速尔群岛时间 (AZOT UTC-1)",
+      "description": "西1区",
+      "utc_offset": "-01:00"
+    },
+    {
+      "id": "UTC",
+      "display_name": "协调世界时 (UTC±0)",
+      "description": "0时区",
+      "utc_offset": "+00:00"
+    },
+    {
+      "id": "Europe/London",
+      "display_name": "伦敦时间 (GMT UTC+0)",
+      "description": "0时区",
+      "utc_offset": "+00:00"
+    },
+    {
+      "id": "Europe/Paris",
+      "display_name": "巴黎时间 (CET UTC+1)",
+      "description": "东1区",
+      "utc_offset": "+01:00"
+    },
+    {
+      "id": "Europe/Berlin",
+      "display_name": "柏林时间 (CET UTC+1)",
+      "description": "东1区",
+      "utc_offset": "+01:00"
+    },
+    {
+      "id": "Europe/Athens",
+      "display_name": "雅典时间 (EET UTC+2)",
+      "description": "东2区",
+      "utc_offset": "+02:00"
+    },
+    {
+      "id": "Africa/Cairo",
+      "display_name": "开罗时间 (EET UTC+2)",
+      "description": "东2区",
+      "utc_offset": "+02:00"
+    },
+    {
+      "id": "Europe/Moscow",
+      "display_name": "莫斯科时间 (MSK UTC+3)",
+      "description": "东3区",
+      "utc_offset": "+03:00"
+    },
+    {
+      "id": "Asia/Dubai",
+      "display_name": "迪拜时间 (GST UTC+4)",
+      "description": "东4区",
+      "utc_offset": "+04:00"
+    },
+    {
+      "id": "Asia/Karachi",
+      "display_name": "卡拉奇时间 (PKT UTC+5)",
+      "description": "东5区",
+      "utc_offset": "+05:00"
+    },
+    {
+      "id": "Asia/Dhaka",
+      "display_name": "达卡时间 (BST UTC+6)",
+      "description": "东6区",
+      "utc_offset": "+06:00"
+    },
+    {
+      "id": "Asia/Bangkok",
+      "display_name": "曼谷时间 (ICT UTC+7)",
+      "description": "东7区",
+      "utc_offset": "+07:00"
+    },
+    {
+      "id": "Asia/Shanghai",
+      "display_name": "北京时间 (CST UTC+8)",
+      "description": "东8区",
+      "utc_offset": "+08:00"
+    },
+    {
+      "id": "Asia/Hong_Kong",
+      "display_name": "香港时间 (HKT UTC+8)",
+      "description": "东8区",
+      "utc_offset": "+08:00"
+    },
+    {
+      "id": "Asia/Singapore",
+      "display_name": "新加坡时间 (SGT UTC+8)",
+      "description": "东8区",
+      "utc_offset": "+08:00"
+    },
+    {
+      "id": "Asia/Tokyo",
+      "display_name": "东京时间 (JST UTC+9)",
+      "description": "东9区",
+      "utc_offset": "+09:00"
+    },
+    {
+      "id": "Asia/Seoul",
+      "display_name": "首尔时间 (KST UTC+9)",
+      "description": "东9区",
+      "utc_offset": "+09:00"
+    },
+    {
+      "id": "Australia/Sydney",
+      "display_name": "悉尼时间 (AEST UTC+10)",
+      "description": "东10区",
+      "utc_offset": "+10:00"
+    },
+    {
+      "id": "Pacific/Noumea",
+      "display_name": "努美阿时间 (NCT UTC+11)",
+      "description": "东11区",
+      "utc_offset": "+11:00"
+    },
+    {
+      "id": "Pacific/Auckland",
+      "display_name": "奥克兰时间 (NZST UTC+12)",
+      "description": "东12区",
+      "utc_offset": "+12:00"
+    },
+    {
+      "id": "Pacific/Fiji",
+      "display_name": "斐济时间 (FJT UTC+12)",
+      "description": "东12区",
+      "utc_offset": "+12:00"
+    }
+  ]
+}

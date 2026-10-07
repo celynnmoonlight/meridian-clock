@@ -1,0 +1,25 @@
+[project]
+name = "meridian-clock"
+version = "0.2.0"
+description = "A desktop world clock and time zone converter built with Python and PySide6."
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "Hachimi Moonlight" }]
+requires-python = ">=3.13"
+dependencies = [
+    "pyside6>=6.8,<7",
+    "pytz>=2023.3",
+]
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.14,<7",
+    "ruff>=0.11",
+]
+
+[tool.ruff]
+target-version = "py313"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
