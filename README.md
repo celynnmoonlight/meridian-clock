@@ -1,6 +1,8 @@
 # Meridian Clock
 
-[简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
+
+[Changelog](CHANGELOG.md)
 
 A desktop world clock and time zone converter built with Python and PySide6.
 
